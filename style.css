@@ -115,3 +115,13 @@
     margin-left: 5px;
     cursor: pointer;
 }
+
+
+
+/************************** about-linux-section **************************/
+
+.about-linux {
+    height: 15rem;
+    width: auto;
+    background-color: #ffffff;
+}
