@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /************************** Header-section **************************/
 .header {
     height: 3rem;
@@ -17,10 +18,9 @@
     width: 70%;
     background-color: #2C3E50;
     display: flex;
-    flex-direction: column;     
-    justify-content: center;  
-    margin-left: 10rem; 
-    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10rem;
 }
 
 
@@ -28,8 +28,8 @@
     width: 30%;
     background-color: #2C3E50;
     display: flex;
-    flex-direction: column;     
-    justify-content: center;    
+    flex-direction: column;
+    justify-content: center;
     align-items: flex-end;
     margin-right: 10rem;
 }
@@ -46,7 +46,7 @@
     height: 37.5rem;
     background-color: #18BC9C;
     display: grid;
-   
+
 }
 
 .hero-img {
@@ -76,10 +76,24 @@
     height: 10rem;
     width: auto;
     background-color: rgb(255, 255, 255);
+    display: grid;
+
+}
+
+.contact-container p {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.2rem;
+    color: #999999;
+    font-size: 15px;
+}
+
+
+.contact {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    margin-bottom: 2.2rem;
 }
 
 .contact input {
@@ -87,7 +101,7 @@
     width: 21.875rem;
     padding: 0 10px;
     border-radius: 5px;
-    border: 1px solid gray;
+    border: 1px solid #999999;
 }
 
 .contact button {
@@ -97,4 +111,6 @@
     border: none;
     border-radius: 5px;
     color: white;
+    margin-left: 5px;
+    cursor: pointer;
 }
