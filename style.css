@@ -60,7 +60,7 @@
 .img {
     height: 16rem;
     width: 12.5rem;
-    background-image: url("images/Linux\ Journey.png");
+    background-image: url("images/hero-section-img.png");
 }
 
 .hero-img h1 {
@@ -172,7 +172,7 @@
 .img-box1 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image1.png");
+    background-image: url("images/container1-image/image1.png");
     border-radius: 50%;
 
 }
@@ -213,7 +213,7 @@
 .img-box2 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image2.png");
+    background-image: url("images/container1-image/image2.png");
     border-radius: 50%;
 
 }
@@ -254,7 +254,7 @@
 .img-box3 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image3.png");
+    background-image: url("images/container1-image/image3.png");
     border-radius: 50%;
 }
 
@@ -294,7 +294,7 @@
 .img-box4 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image4.png");
+    background-image: url("images/container1-image/image4.png");
     border-radius: 50%;
 
 }
@@ -334,7 +334,7 @@
 .img-box5 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image5.png");
+    background-image: url("images/container1-image/image5.png");
     border-radius: 50%;
 
 }
@@ -375,7 +375,7 @@
 .img-box6 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image6.png");
+    background-image: url("images/container1-image/image6.png");
     border-radius: 50%;
 
 }
@@ -416,7 +416,7 @@
 .img-box7 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image7.png");
+    background-image: url("images/container1-image/image7.png");
     border-radius: 50%;
 
 }
@@ -455,7 +455,7 @@
 .img-box8 {
     height: 9.375rem;
     width: 9.375rem;
-    background-image: url("images/image8.png");
+    background-image: url("images/container1-image/image8.png");
     border-radius: 50%;
 
 }
