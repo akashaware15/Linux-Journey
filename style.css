@@ -38,7 +38,6 @@
     background-color: #2C3E50;
     color: white;
     border: none;
-    appearance: none;
 }
 
 /************************** Hero-section **************************/
@@ -71,3 +70,31 @@
 }
 
 
+/************************** contact-section **************************/
+
+.contact-container {
+    height: 10rem;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contact input {
+    height: 2.25rem;
+    width: 21.875rem;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.contact button {
+    height: 2.25rem;
+    width: 4.485rem;
+    background-color: #18BC9C;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
