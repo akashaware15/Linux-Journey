@@ -14,7 +14,7 @@
 }
 
 .logo {
-    font-weight:lighter;
+    font-weight: lighter;
     width: 70%;
     background-color: #2C3E50;
     display: flex;
@@ -76,9 +76,9 @@
 .contact-container {
     height: 10rem;
     width: auto;
-    background-color: rgb(255, 255, 255);
+    background-color: #c5bdbd72;
     display: grid;
-
+    /* border-bottom: 1px solid #999999; */
 }
 
 .contact-container p {
@@ -117,11 +117,350 @@
 }
 
 
+/************************** Box-section **************************/
 
-/************************** about-linux-section **************************/
-
-.about-linux {
-    height: 15rem;
+.box-container {
+    height: auto;
     width: auto;
-    background-color: #ffffff;
+    background-color: #c5bdbd72;
+}
+
+.box-container h1 {
+    color: #999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5rem 0rem;
+}
+
+
+.all-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 6rem;
+}
+
+/************************** Box1-content **************************/
+
+.box1 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box1 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box1 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box1 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image1.png");
+    border-radius: 50%;
+
+}
+
+.box1:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/************************** Box2-content **************************/
+
+.box2 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box2 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box2 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box2 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image2.png");
+    border-radius: 50%;
+
+}
+
+.box2:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/************************** Box3-content **************************/
+
+.box3 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box3 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box3 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box3 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image3.png");
+    border-radius: 50%;
+}
+
+.box3:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/************************** Box4-content **************************/
+
+.box4 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box4 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box4 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box4 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image4.png");
+    border-radius: 50%;
+
+}
+
+.box4:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+/************************** Box5-content **************************/
+
+.box5 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box5 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box5 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box5 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image5.png");
+    border-radius: 50%;
+
+}
+
+.box5:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/************************** Box6-content **************************/
+
+.box6 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box6 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box6 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box6 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image6.png");
+    border-radius: 50%;
+
+}
+
+.box6:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/************************** Box7-content **************************/
+
+.box7 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box7 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box7 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box7 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image7.png");
+    border-radius: 50%;
+
+}
+
+.box7:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+/************************** Box8-content **************************/
+
+.box8 {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box8 p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box8 h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box8 {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/image8.png");
+    border-radius: 50%;
+
+}
+
+.box8:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
 }
