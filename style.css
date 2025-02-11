@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/************************** Header-section **************************/
+.header {
+    height: 3rem;
+    background-color: #2C3E50;
+    color: white;
+    display: flex;
+}
+
+.logo {
+    font-weight: 100;
+    width: 70%;
+    background-color: #2C3E50;
+    display: flex;
+    flex-direction: column;     
+    justify-content: center;  
+    margin-left: 10rem; 
+    /* align-items: center; */
+}
+
+
+.language {
+    width: 30%;
+    background-color: #2C3E50;
+    display: flex;
+    flex-direction: column;     
+    justify-content: center;    
+    align-items: flex-end;
+    margin-right: 10rem;
+}
+
+#select {
+    background-color: #2C3E50;
+    color: white;
+    border: none;
+    appearance: none;
+}
+
+/************************** Hero-section **************************/
+
+.hero-section {
+    height: 37.5rem;
+    background-color: #18BC9C;
+    display: grid;
+   
+}
+
+.hero-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+}
+
+.img {
+    height: 16rem;
+    width: 12.5rem;
+    background-image: url("Linux\ Journey.png");
+}
+
+.hero-img h1 {
+    padding-top: 3rem;
+    color: white;
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+
