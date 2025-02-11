@@ -116,6 +116,11 @@
     cursor: pointer;
 }
 
+.bottom-line {
+  background-color: rgb(0, 0, 0);
+  height: 0px;
+  margin: 0 6.5rem;
+}
 
 /************************** Box1-section **************************/
 
@@ -1096,5 +1101,37 @@
 .box7-Networking:hover {
     background-color: #18BC9C;
     transition: background-color 0.5s;
+}
+
+/************************************* Footer *************************************/
+
+.footer {
+    background-color: #2C3E50;
+    height: 12.5rem;
+    width: auto;
+}
+
+.foot-panel1 {
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 3rem;
+}
+
+
+.foot-panel1 a {
+    color: #428BCA;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.foot-panel1 li {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.foot-panel1 h2 {
+    font-size: 28px;
 }
 
