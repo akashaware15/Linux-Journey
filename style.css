@@ -778,3 +778,323 @@
     background-color: #18BC9C;
     transition: background-color 0.5s;
 }
+
+
+/************************** Box3-section **************************/
+
+.box-container3 {
+    height: auto;
+    width: auto;
+    background-color: #c5bdbd72;
+}
+
+.box-container3 h1 {
+    color: #999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5rem 0rem;
+}
+
+
+.all-box-Networking {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 6rem;
+}
+
+
+
+/* Box1-container3 */
+
+.box1-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box1-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box1-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box1-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image1.png");
+    border-radius: 50%;
+
+}
+
+.box1-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+/* Box2-container3 */
+
+.box2-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box2-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box2-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box2-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image2.png");
+    border-radius: 50%;
+
+}
+
+.box2-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+
+/* Box3-container3 */
+
+.box3-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box3-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box3-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box3-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image3.png");
+    border-radius: 50%;
+
+}
+
+.box3-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+
+/* Box4-container3 */
+
+.box4-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box4-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box4-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box4-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image4.png");
+    border-radius: 50%;
+
+}
+
+.box4-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+
+/* Box5-container3 */
+
+.box5-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box5-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box5-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box5-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image5.png");
+    border-radius: 50%;
+
+}
+
+.box5-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+
+/* Box6-container3 */
+
+.box6-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box6-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box6-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box6-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image6.png");
+    border-radius: 50%;
+
+}
+
+.box6-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
+
+
+/* Box7-container3 */
+
+.box7-Networking {
+    height: 24.375rem;
+    width: 17.813rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.box7-Networking p {
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    font-size: 14px;
+}
+
+.box7-Networking h2 {
+    padding-top: 25px;
+    color: #2C3E50;
+    font-size: 21px;
+}
+
+.img-box7-Networking {
+    height: 9.375rem;
+    width: 9.375rem;
+    background-image: url("images/container3-image/image7.png");
+    border-radius: 50%;
+
+}
+
+.box7-Networking:hover {
+    background-color: #18BC9C;
+    transition: background-color 0.5s;
+}
+
