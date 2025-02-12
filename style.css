@@ -44,11 +44,10 @@
     color: white;
     border: none;
     font-size: 15px;
+    width:auto;
 }
 
-.option-img {
-    background-image: url("images/container1-image/logo.png");
-}
+
 
 /************************** Hero-section **************************/
 
@@ -1150,4 +1149,11 @@
 
 .foot-panel1 h2 {
     font-size: 28px;
+}
+
+
+.footer p {
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
 }
