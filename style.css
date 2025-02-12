@@ -85,7 +85,7 @@
 .contact-container {
     height: 10rem;
     width: auto;
-    background-color: #c5bdbd72;
+    background-color: #ebdada72;
     display: grid;
     /* border-bottom: 1px solid #999999; */
 }
@@ -142,7 +142,7 @@
 .box-container {
     height: auto;
     width: auto;
-    background-color: #c5bdbd72;
+    background-color: #ebdada72;
 }
 
 .box-container h1 {
@@ -493,7 +493,7 @@
 .box-container2 {
     height: auto;
     width: auto;
-    background-color: #c5bdbd72;
+    background-color: #ebdada72;
 }
 
 .box-container2 h1 {
@@ -806,7 +806,7 @@
 .box-container3 {
     height: auto;
     width: auto;
-    background-color: #c5bdbd72;
+    background-color: #ebdada72;
     padding-bottom: 7rem;
 }
 
