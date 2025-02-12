@@ -46,6 +46,10 @@
     font-size: 15px;
 }
 
+.option-img {
+    background-image: url("images/container1-image/logo.png");
+}
+
 /************************** Hero-section **************************/
 
 .hero-section {
