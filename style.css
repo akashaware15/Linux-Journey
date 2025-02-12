@@ -11,6 +11,11 @@
     background-color: #2C3E50;
     color: white;
     display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
 }
 
 .logo {
@@ -117,9 +122,9 @@
 }
 
 .bottom-line {
-  background-color: rgb(0, 0, 0);
-  height: 0px;
-  margin: 0 6.5rem;
+    background-color: rgb(0, 0, 0);
+    height: 0px;
+    margin: 0 6.5rem;
 }
 
 /************************** Box1-section **************************/
@@ -430,6 +435,7 @@
     background-color: #18BC9C;
     transition: background-color 0.5s;
 }
+
 /* Box8-content */
 
 .box8 {
@@ -1135,4 +1141,3 @@
 .foot-panel1 h2 {
     font-size: 28px;
 }
-
